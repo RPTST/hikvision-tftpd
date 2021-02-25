@@ -1,3 +1,6 @@
+https://forum.level1techs.com/t/unbricking-hikvision-ip-cameras-repair-reflash-and-tftp-guide/161470
+
+
 Unbrick a Hikvision device. Use as follows:
 
 Setup the expected IP address:
