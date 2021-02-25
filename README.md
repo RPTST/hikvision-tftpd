@@ -1,5 +1,9 @@
 https://forum.level1techs.com/t/unbricking-hikvision-ip-cameras-repair-reflash-and-tftp-guide/161470
 
+https://blog.donbowman.ca/2018/01/18/hacking-the-hikvision-part-1/
+
+https://blog.donbowman.ca/2018/01/19/hacking-the-hikvision-part-2/
+
 
 Unbrick a Hikvision device. Use as follows:
 
